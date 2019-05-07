@@ -1,0 +1,7 @@
+Flask==1.0.2
+ffmpeg==1.4
+ffmpeg-python==0.1.17
+ffmpy==0.2.2
+google-cloud-storage==1.15.0
+google-api-core==1.10.0
+google-auth==1.6.
